@@ -1,0 +1,2 @@
+1- Mobile first
+2- Web
